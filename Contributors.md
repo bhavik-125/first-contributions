@@ -2700,9 +2700,9 @@
 - [Anantha Sai](https://github.com/ananthasai-2006)
 - [Dharmakari Nagender](https://github.com/Nagender211)
 - [nigmatullin244] (https://github.com/nigmatullin244)
-- [Pranav Ghadge] (https://github.com/pranavg21)
-- [Vipul kumar] (https://github.com/vipul264og)
-- [RAHUL] (https://github.com/Rahul2322-P)
--[Satyam Pandey](https://github.com/SatyamPandey-07)
--[Bhavik Umesh Thakkar] (https://github.com/bhavik-125)
+- [Pranav Ghadge](https://github.com/pranavg21)
+- [Vipul kumar](https://github.com/vipul264og)
+- [RAHUL] (https://github.com/Rahul2322-P)\
+- [Satyam Pandey](https://github.com/SatyamPandey-07)
+- [Bhavik Umesh Thakkar](https://github.com/bhavik-125)
 
